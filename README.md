@@ -1,4 +1,4 @@
-# Get emotion from face img (python)
+# Get emotion from face image (python)
 
 ##Description  
 Use Microsoft Cognitive Services - Emotion API to detect emotion from face image
