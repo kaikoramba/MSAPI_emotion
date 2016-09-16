@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 import sys
 
-key = 'MSAPI-keyxxxxxxxxxxxxxxxxxxxxxxxx'
+key = '------MSAPI-key-------'
 cam_device = 0
 
 logging.basicConfig(level=logging.DEBUG,

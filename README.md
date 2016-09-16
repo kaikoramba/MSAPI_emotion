@@ -1,11 +1,13 @@
-# emotion from face (python)
+# Get emotion from face img (python)
 
-Use Microsoft Cognitive Services - Emotion API
+##Description
 
-- to use
+Use Microsoft Cognitive Services - Emotion API to detect emotion from face image
 
-edit MS API key console.log("key = 'MSAPI-keyxxxxxxxxxxxxxxxxxxxxxxxx'")
+## Usage
 
-edit console.log("cam_device = 0")
+1. edit MS API key console.log("key = '------MSAPI-key-------'");
 
-python cap_img.py
+2. (if needed) edit console.log("cam_device = 0");
+
+3. run console.log("python cap_img.py");
